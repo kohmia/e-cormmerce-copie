@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: black;
+    font-family: 'Roboto' ,sans-serif ;
+    text-decoration: none;
+}
+body{
+    background-color:#EFF4F7 ;
+}
+header{
+    border: 4px solid black;
+    width: 1194px;
+    margin: auto;
+
+}
+nav{
+    border: 2px solid red;
+    gap: 49px;
+}
+nav a{
+    font-size: 18px;
+    font-weight: 400;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.lienfleche{
+    gap: 4px;
+}
